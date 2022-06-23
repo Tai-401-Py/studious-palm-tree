@@ -1,4 +1,3 @@
-from unicodedata import name
 import discord, os, datetime
 from discord.ext import commands
 from dotenv import load_dotenv
